@@ -114,3 +114,35 @@ button:active{
     width: 350px;
     border-top: 10px solid #CAAE6C;
 }
+
+@media screen and (max-width: 800px){
+
+    header{
+        width: inherit;
+        border-bottom: solid 20px #121212;
+        
+    }
+    .logo{
+        width: 320px;
+        position: absolute;
+        top: -50px;
+    }
+    
+    nav {
+        display: none;
+    }
+   
+    .Patrociníos{
+        width: 375px;
+
+    }
+    .infoPlayer{
+        position: static;
+        padding-top: 35px;
+        padding-left: 14px;
+    }
+    button{
+        top: 1203px;
+    }
+
+}
