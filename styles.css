@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+body{
+    background-image: url(./img/Fundo-fosco.jpg);
+    
+}
+header{
+    background: #CAAE6C;
+    height: 275px;
+}
+
+.logo{
+    display: block;
+    width: 400px;
+    height: 350px;
+    margin: 0 auto;
+}
+
+nav{
+    color: white;
+    text-align: center;
+    background: #0F090D;
+    height: 60px;
+    border-bottom: 1px solid white;
+   
+}
+
+a{
+    padding-left: 30px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+
+a:hover{
+    opacity: 0.8;
+
+}
+
+a:active{
+    opacity: 0.6;
+}
+
+h2{
+    width: 350px;
+    margin-left: 25px;
+    padding-bottom: 10px;
+}
+
+
+.jogos{
+    color: white;
+    margin-top: 200px;
+}   
+
+.ImgJogo{
+    width: 350px;
+    margin-left: 25px;
+    border-top: 10px solid #CAAE6C;
+}
+
+
+.Patrociníos{
+    width: 810px;
+    margin: 0 auto;
+    display: block;
+    padding-top: 100px;
+}
+
+.facebook{
+    width: 53px;
+}
+
+.instagram{
+    width: 53px;
+}
+
+.tituloJogadores{
+    color: white;
+
+}
+
+.infoPlayer{
+    position: absolute;
+    top: 532px;
+    right: 0;
+}
+
+button{
+    position: absolute;
+    top: 226px;
+    right: 5px;
+    background: none;
+    border: none;
+    width: 90px;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.6;
+}
+
+#players{
+    width: 350px;
+    border-top: 10px solid #CAAE6C;
+}
