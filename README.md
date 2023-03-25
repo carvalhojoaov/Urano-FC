@@ -15,7 +15,7 @@
 </ul>
 <br>
 <h3>Para mais detalhes do projeto voce pode accesar este link abaixo:</h3>  
-   <a href="https://rodolfomori.com.br/devclub">DevClub</a>
+   <a href="https://carvalhojoaov.github.io/Urano-FC/">Projeto</a>
 
 <br>
 <br>
